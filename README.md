@@ -1,6 +1,6 @@
-<h1>Hi, I'm Joel! <br/><a href="https://github.com/joelcybersec">Programmer</a>, <a href="https://https://www.linkedin.com/in/joel-appiah/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Joel! <br/><a href="https://github.com/joelcybersec"></a>, <a href="https://https://www.linkedin.com/in/joel-appiah/">Cybersecurity Professional</a>, 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Systerm engineer Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
